@@ -57,25 +57,30 @@ Bash
 
 📸 Screenshots
 
-Home Interface
+## 📸 Screenshots
 
-![Home Screen](app/screenshots/home.png)
-
-Real-time search and Subject Filtering
-
-![Search Results](app/screenshots/search.png)
-
-Flashcard Interaction
-
-![Reveal Logic](app/screenshots/reveal.png)
-
-My List (Favorites)	
-
-![My List](app/screenshots/mylist.png)
-
-Voice Guide
-
-![TTS Feature](app/screenshots/voice.png)
+<table style="width: 100%;">
+  <tr>
+    <td align="center"><b>Home & Word of the Day</b></td>
+    <td align="center"><b>Search & Filters</b></td>
+    <td align="center"><b>Flashcard Reveal</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="app/screenshots/home.png" width="250" /></td>
+    <td align="center"><img src="app/screenshots/search.png" width="250" /></td>
+    <td align="center"><img src="app/screenshots/reveal.png" width="250" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>My List (Favorites)</b></td>
+    <td align="center"><b>Voice Guide</b></td>
+    <td align="center"><b>-</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="app/screenshots/mylist.png" width="250" /></td>
+    <td align="center"><img src="app/screenshots/voice.png" width="250" /></td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 📂 Folder Structure
 
