@@ -57,12 +57,24 @@ Bash
 
 📸 Screenshots
 
-Home & Word of the Day	Search & Filters	Flashcard Reveal
+Home Interface
+
 ![alt text](screenshots/home.png)
+
+Real-time search and Subject Filtering
+
 ![alt text](screenshots/search.png)
+
+Flashcard Interaction
+
 ![alt text](screenshots/reveal.png)
-My List (Favorites)	Voice Guide
+
+My List (Favorites)	
+
 ![alt text](screenshots/mylist.png)
+
+Voice Guide
+
 ![alt text](screenshots/voice.png)
 
 📂 Folder Structure
