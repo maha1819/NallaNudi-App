@@ -1,70 +1,107 @@
 NallaNudi (ನಲ್ಲನುಡಿ)
 Bridge Dictionary for Technical Terms
 
-NallaNudi is a specialized educational mobile application designed to assist Kannada-medium students in rural Karnataka during their transition to English-medium higher education. It functions as a linguistic "ladder," bridging the gap between conceptual understanding in the mother tongue and technical terminology in English.
+📝 Problem Statement
 
-📖 Project Overview:
+Students completing their primary and secondary education in Kannada-medium schools often encounter a significant "linguistic shock" when transitioning to English-medium higher education (PUC and Degree courses). While these students possess a deep conceptual understanding of academic subjects, their progress is frequently hindered by a sudden exposure to specialized technical vocabulary in Science, Math, and Commerce.
+Standard bilingual dictionaries are often too broad and fail to provide the subject-specific, simplified Kannada context necessary for academic clarity. NallaNudi bridges this gap by providing an offline, contextual glossary with real-world examples and auditory guidance.
 
-Students from regional-medium backgrounds often face a "linguistic shock" in STEM and Commerce streams. Standard dictionaries provide generic meanings that lack academic context. NallaNudi solves this by providing a curated technical glossary that works 100% offline, ensuring equity for students with limited internet access.
+🚀 Features
 
-🚀 Key Features:
-
-Interactive Flashcards: Uses a "Tap to Reveal" mechanism to promote active recall. Definitions and examples stay hidden until the user is ready to check their knowledge.
-My List (Revision Tool): Students can "Star" difficult terms to build a personalized list for daily revision.
+Interactive Flashcards: Uses a "Tap to Reveal" mechanism to encourage active recall and better memory retention.
+My List (Personalized Revision): Allows students to "Star" difficult terms to build a curated list for daily focused study.
 Word of the Day: An automated module that highlights a new technical term every 24 hours to encourage incremental learning.
-Voice Guide: Integrated Text-To-Speech (TTS) to help students master the correct English pronunciation of complex terms.
-Subject-Wise Filtering: Quickly navigate through specific terminologies for Science, Mathematics, and Commerce.
-Instant Search: High-performance local search engine optimized for response times under 200ms using Room Database indexing.
+Auditory Voice Guide: Integrated Text-To-Speech (TTS) to help students master the correct English pronunciation.
+Subject-Wise Filtering: Quick navigation through specific terminologies for Science, Mathematics, and Commerce.
+100% Offline Availability: Built with a Room Database ensuring zero data usage, making it ideal for rural students.
+Instant Search: High-performance retrieval engine optimized for response times under 200ms.
 
-🛠️ Technical Stack:
+🛠️ Tech Stack
 
-Frontend: XML with Material Design 3 (Cards, Chips, RecyclerView).
-Language: Kotlin 1.9.22.
-Database: Room Persistence Library (SQLite abstraction).
-Concurrency: Kotlin Coroutines & Flow for lag-free background database operations.
-Data Parsing: Native JSON parsing (org.json) for safe data migration.
-Min SDK: API 24 (Android 7.0).
-Target SDK: API 34 (Android 14).
+Language: Kotlin 1.9.22
+Database: Room Persistence Library (SQLite Abstraction)
+Concurrency: Kotlin Coroutines & Flow (for lag-free background operations)
+UI Framework: XML with Material Design 3 (Cards, Chips, RecyclerView)
+API: Native Android Text-to-Speech (TTS)
+Architecture: Layered Architecture (Data, Logic, UI)
 
-🏗️ System Architecture:
+📥 Installation Steps
 
-The application follows a Layered Architecture to ensure maintainability and performance:
-Presentation Layer: MainActivity and WordAdapter manage the UI state and user interactions.
-Logic Layer: Kotlin Coroutines handle asynchronous data fetching to keep the UI thread smooth.
-Data Layer: WordDatabase and WordDao manage local persistence, ensuring the app remains fully functional without an internet connection.
+Clone the Repository:
+code
+Bash
+git clone https://github.com/maha1819/NallaNudi-App.git
 
-📂 Project Structure:
+Open in Android Studio:
+Launch Android Studio (Jellyfish or newer recommended).
+Select Open and navigate to the cloned folder.
+
+Configure JDK:
+Go to File > Settings > Build, Execution, Deployment > Build Tools > Gradle.
+Set Gradle JDK to jbr-21 or Java 17.
+
+Sync Project:
+Click the Blue Elephant icon (Sync Project with Gradle Files).
+
+🏃 How to Run
+
+Connect your Android device (Samsung Galaxy M53) via USB.
+Enable USB Debugging in Developer Options.
+Select your device in the top toolbar dropdown.
+Click the Green Triangle (Run) button.
+
+Alternatively, via terminal:
+code
+Bash
+./gradlew installDebug
+
+📸 Screenshots
+
+Home & Word of the Day	Search & Filters	Flashcard Reveal
+![alt text](screenshots/home.png)
+![alt text](screenshots/search.png)
+![alt text](screenshots/reveal.png)
+My List (Favorites)	Voice Guide
+![alt text](screenshots/mylist.png)
+![alt text](screenshots/voice.png)
+
+📂 Folder Structure
 
 code
 Text
-app/src/main/java/com/example/nallanudi/
 
-├── MainActivity.kt      # The brain of the app (Search, Filters, TTS)
+NallaNudi/
 
-├── Word.kt              # Data Entity (English, Kannada, Definition, Example, etc.)
+├── app/
 
-├── WordDao.kt           # SQL Query Definitions (Search, Filter, Favorites)
+│   ├── src/main/
 
-├── WordDatabase.kt      # Database initialization and Migration logic
+│   │   ├── assets/             # words.json (Initial Dataset)
 
-└── WordAdapter.kt       # Logic for the interactive "Tap to Reveal" UI
+│   │   ├── java/com/example/nallanudi/
 
-🎯 Social Impact
+│   │   │   ├── MainActivity.kt # UI Logic, Search, Filters
 
-This project aims to reduce academic dropout rates among Kannada-medium students by removing the language barrier in higher education. By validating the mother tongue as a foundation for technical learning, NallaNudi democratizes access to scientific and commercial knowledge.
+│   │   │   ├── Word.kt         # Room Entity (Database Model)
 
-🔧 Installation & Usage
+│   │   │   ├── WordDao.kt      # SQL Queries
 
-Clone the repository.
-Open the project in Android Studio (Version 2024.1 or higher).
-Ensure JDK 17 is configured in your Gradle settings.
-Clean and Rebuild the project.
-Run on a physical device or emulator.
+│   │   │   ├── WordDatabase.kt # DB Initialization & Migration
 
-👷 Author
+│   │   │   └── WordAdapter.kt  # Flashcard & List Management
 
-Developed by Poola Mahalakshmi as a Final Year Internship Project.
+│   │   └── res/layout/
 
-Note to Reviewers:
+│   │       ├── activity_main.xml # Dashboard Design
 
-The application includes a pre-populated database of 200+ technical terms. To see the data for the first time, simply launch the app; the system will automatically migrate the words.json assets into the local Room Database.
+│   │       └── item_word.xml     # Word Card Design
+
+└── build.gradle.kts            # Project Configuration
+
+🔮 Future Improvements
+
+Visual Aids: Adding diagrams and illustrations for STEM concepts.
+Quiz Mode: Implementing a gamified MCQ section for self-testing.
+Multilingual Support: Expanding the bridge to other regional languages.
+Dark Mode: Providing a comfortable reading experience for night study.
+
