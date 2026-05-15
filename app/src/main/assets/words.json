@@ -1,0 +1,1370 @@
+[
+ {
+  "english_term": "Momentum",
+  "kannada_term": "ಸಂವೇಗ",
+  "definition": "ವಸ್ತುವಿನ ದ್ರವ್ಯರಾಶಿ ಮತ್ತು ವೇಗದ ಗುಣಲಬ್ಧ.",
+  "simple_example": "ವೇಗವಾಗಿ ಬರುವ ಕ್ರಿಕೆಟ್ ಬಾಲ್ ಹೆಚ್ಚು ಸಂವೇಗ ಹೊಂದಿರುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Kinetic Energy",
+  "kannada_term": "ಚಲನಶಕ್ತಿ",
+  "definition": "ವಸ್ತುವು ಚಲನೆಯಲ್ಲಿರುವಾಗ ಪಡೆಯುವ ಶಕ್ತಿ.",
+  "simple_example": "ಓಡುತ್ತಿರುವ ರೈಲಿನಲ್ಲಿ ಚಲನಶಕ್ತಿ ಇರುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Potential Energy",
+  "kannada_term": "ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿ",
+  "definition": "ವಸ್ತುವಿನ ಸ್ಥಿತಿಯಿಂದಾಗಿ ಸಂಗ್ರಹವಾಗಿರುವ ಶಕ್ತಿ.",
+  "simple_example": "ಎತ್ತರದಲ್ಲಿ ಹಿಡಿದಿಟ್ಟಿರುವ ಕಲ್ಲಿನಲ್ಲಿ ಈ ಶಕ್ತಿ ಇರುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Conductor",
+  "kannada_term": "ವಾಹಕ",
+  "definition": "ವಿದ್ಯುತ್ ತನ್ನ ಮೂಲಕ ಹರಿಯಲು ಬಿಡುವ ವಸ್ತು.",
+  "simple_example": "ತಾಮ್ರದ ತಂತಿ ಒಂದು ಉತ್ತಮ ವಿದ್ಯುತ್ ವಾಹಕ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Insulator",
+  "kannada_term": "ಅವಾಹಕ",
+  "definition": "ವಿದ್ಯುತ್ ಹರಿಯಲು ಬಿಡದ ವಸ್ತು.",
+  "simple_example": "ಪ್ಲಾಸ್ಟಿಕ್ ಮತ್ತು ಮರ ವಿದ್ಯುತ್ ಅವಾಹಕಗಳು.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Resistance",
+  "kannada_term": "ರೋಧ",
+  "definition": "ವಿದ್ಯುತ್ ಹರಿವನ್ನು ತಡೆಯುವ ಗುಣ.",
+  "simple_example": "ಬಲ್ಬ್ ನ ತಂತಿಯು ವಿದ್ಯುತ್ ಗೆ ರೋಧವನ್ನು ಒಡ್ಡುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Frequency",
+  "kannada_term": "ಆವರ್ತನ",
+  "definition": "ಒಂದು ಸೆಕೆಂಡಿಗೆ ಆಗುವ ಕಂಪನಗಳ ಸಂಖ್ಯೆ.",
+  "simple_example": "ಸೀತಾರ್ ತಂತಿಯ ಆವರ್ತನ ಬದಲಿಸಿದರೆ ಶಬ್ದ ಬದಲಾಗುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Wavelength",
+  "kannada_term": "ತರಂಗಾಂತರ",
+  "definition": "ಎರಡು ಅಲೆಗಳ ನಡುವಿನ ಅಂತರ.",
+  "simple_example": "ಕೆಂಪು ಬಣ್ಣದ ಬೆಳಕು ಅತಿ ಹೆಚ್ಚು ತರಂಗಾಂತರ ಹೊಂದಿದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Neuron",
+  "kannada_term": "ನರಕೋಶ",
+  "definition": "ನರಮಂಡಲದ ಮೂಲ ಘಟಕ.",
+  "simple_example": "ಮೆದುಳಿನಿಂದ ಸಂದೇಶಗಳು ನರಕೋಶಗಳ ಮೂಲಕ ಸಾಗುತ್ತವೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Pollination",
+  "kannada_term": "ಪರಾಗಸ್ಪರ್ಶ",
+  "definition": "ಪರಾಗರೇಣುಗಳು ಕೇಸರದಿಂದ ಶಲಾಕಾಗ್ರಕ್ಕೆ ವರ್ಗಾವಣೆಯಾಗುವುದು.",
+  "simple_example": "ಜೇನುನೊಣಗಳು ಪರಾಗಸ್ಪರ್ಶಕ್ಕೆ ಸಹಾಯ ಮಾಡುತ್ತವೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Oxidation",
+  "kannada_term": "ಉತ್ಕರ್ಷಣ",
+  "definition": "ಆಮ್ಲಜನಕದ ಸೇರ್ಪಡೆ ಅಥವಾ ಎಲೆಕ್ಟ್ರಾನ್ ಕಳೆದುಕೊಳ್ಳುವುದು.",
+  "simple_example": "ಕಬ್ಬಿಣ ತುಕ್ಕು ಹಿಡಿಯುವುದು ಒಂದು ಉತ್ಕರ್ಷಣ ಕ್ರಿಯೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Reduction",
+  "kannada_term": "ಅಪಕರ್ಷಣ",
+  "definition": "ಹೈಡ್ರೋಜನ್ ಸೇರ್ಪಡೆ ಅಥವಾ ಆಮ್ಲಜನಕದ ಬಿಡುಗಡೆ.",
+  "simple_example": "ತಾಮ್ರದ ಆಕ್ಸೈಡ್ ನಿಂದ ತಾಮ್ರ ಪಡೆಯುವುದು ಅಪಕರ್ಷಣ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "PH Value",
+  "kannada_term": "ಪಿಹೆಚ್ ಮೌಲ್ಯ",
+  "definition": "ದ್ರಾವಣದ ಆಮ್ಲೀಯತೆ ಅಥವಾ ಪ್ರತ್ಯಾಮ್ಲೀಯತೆಯ ಅಳತೆ.",
+  "simple_example": "ಶುದ್ಧ ನೀರಿನ ಪಿಹೆಚ್ ಮೌಲ್ಯ 7 ಇರುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Isotope",
+  "kannada_term": "ಸಮಸ್ಥಾನಿ",
+  "definition": "ಒಂದೇ ಪರಮಾಣು ಸಂಖ್ಯೆ ಮತ್ತು ಬೇರೆ ದ್ರವ್ಯರಾಶಿ ಸಂಖ್ಯೆಯ ಧಾತು.",
+  "simple_example": "ಕಾರ್ಬನ್-14 ಅನ್ನು ಹಳೆಯ ವಸ್ತುಗಳ ವಯಸ್ಸು ತಿಳಿಯಲು ಬಳಸುತ್ತಾರೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Displacement",
+  "kannada_term": "ಸ್ಥಳಾಂತರ",
+  "definition": "ಆರಂಭದ ಮತ್ತು ಅಂತ್ಯದ ಬಿಂದುಗಳ ನಡುವಿನ ಕನಿಷ್ಠ ದೂರ.",
+  "simple_example": "ವೃತ್ತಾಕಾರದಲ್ಲಿ ಓಡಿ ಮತ್ತೆ ಆರಂಭದ ಬಿಂದುವಿಗೆ ಬಂದರೆ ಸ್ಥಳಾಂತರ ಶೂನ್ಯ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Latent Heat",
+  "kannada_term": "ಸುಪ್ತೋಷ್ಣ",
+  "definition": "ತಾಪಮಾನ ಬದಲಾಗದೆ ವಸ್ತುವಿನ ಸ್ಥಿತಿ ಬದಲಿಸಲು ಬೇಕಾದ ಶಾಖ.",
+  "simple_example": "ಮಂಜುಗಡ್ಡೆ ಕರಗುವಾಗ ನೀಡುವ ಶಾಖವೇ ಸುಪ್ತೋಷ್ಣ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Capacitor",
+  "kannada_term": "ಸಂಧಾರಕ",
+  "definition": "ವಿದ್ಯುತ್ ಶಕ್ತಿಯನ್ನು ಸಂಗ್ರಹಿಸಿಡುವ ಸಾಧನ.",
+  "simple_example": "ಫ್ಯಾನ್‌ಗಳಲ್ಲಿ ಮೋಟಾರ್ ಆರಂಭಿಸಲು ಕೆಪಾಸಿಟರ್ ಬಳಸುತ್ತಾರೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Transistor",
+  "kannada_term": "ಟ್ರಾನ್ಸಿಸ್ಟರ್",
+  "definition": "ವಿದ್ಯುತ್ ಸಂಕೇತಗಳನ್ನು ವರ್ಧಿಸುವ ಅಥವಾ ಸ್ವಿಚ್ ಆಗಿ ಬಳಸುವ ಅರೆವಾಹಕ.",
+  "simple_example": "ಪ್ರತಿಯೊಂದು ಮೊಬೈಲ್ ಮತ್ತು ಕಂಪ್ಯೂಟರ್ ಚಿಪ್‌ನಲ್ಲಿ ಕೋಟ್ಯಂತರ ಟ್ರಾನ್ಸಿಸ್ಟರ್‌ಗಳಿವೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Cytoplasm",
+  "kannada_term": "ಕೋಶದ್ರವ್ಯ",
+  "definition": "ಜೀವಕೋಶದ ಒಳಗೆ ತುಂಬಿರುವ ಜೆಲ್ಲಿಯಂತಹ ದ್ರವ.",
+  "simple_example": "ಜೀವಕೋಶದ ಎಲ್ಲಾ ಅಂಗಾಂಶಗಳು ಕೋಶದ್ರವ್ಯದಲ್ಲಿ ತೇಲುತ್ತಿರುತ್ತವೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Mitochondria",
+  "kannada_term": "ಮೈಟೋಕಾಂಡ್ರಿಯ",
+  "definition": "ಜೀವಕೋಶದ ಶಕ್ತಿ ಉತ್ಪಾದನಾ ಕೇಂದ್ರ.",
+  "simple_example": "ನಾವು ಸೇವಿಸುವ ಆಹಾರ ಮೈಟೋಕಾಂಡ್ರಿಯದಲ್ಲಿ ಶಕ್ತಿಯಾಗಿ ಬದಲಾಗುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Combustion",
+  "kannada_term": "ದಹನ",
+  "definition": "ಆಮ್ಲಜನಕದ ಜೊತೆ ವರ್ತಿಸಿ ಶಾಖ ಮತ್ತು ಬೆಳಕು ನೀಡುವ ಕ್ರಿಯೆ.",
+  "simple_example": "ಗ್ಯಾಸ್ ಒಲೆಯಲ್ಲಿ ಎಲ್.ಪಿ.ಜಿ ಉರಿಯುವುದು ಒಂದು ದಹನ ಕ್ರಿಯೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Isotopes",
+  "kannada_term": "ಸಮಸ್ಥಾನಿಗಳು",
+  "definition": "ಒಂದೇ ಪರಮಾಣು ಸಂಖ್ಯೆ ಆದರೆ ಬೇರೆ ದ್ರವ್ಯರಾಶಿ ಸಂಖ್ಯೆ ಹೊಂದಿರುವ ಧಾತುಗಳು.",
+  "simple_example": "ಇಂಗಾಲದ ಸಮಸ್ಥಾನಿಗಳನ್ನು ಹಳೆಯ ಪಳೆಯುಳಿಕೆಗಳ ವಯಸ್ಸು ತಿಳಿಯಲು ಬಳಸುತ್ತಾರೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Valence",
+  "kannada_term": "ವೇಲೆನ್ಸಿ",
+  "definition": "ಪರಮಾಣುವಿನ ಸಂಯೋಜನಾ ಸಾಮರ್ಥ್ಯ.",
+  "simple_example": "ಕಾರ್ಬನ್ ನಾಲ್ಕು ವೇಲೆನ್ಸಿ ಹೊಂದಿದೆ, ಆದ್ದರಿಂದ ಅದು ನಾಲ್ಕು ಬಂಧಗಳನ್ನು ಮಾಡಬಲ್ಲದು.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Antibiotics",
+  "kannada_term": "ಪ್ರತಿಜೀವಕಗಳು",
+  "definition": "ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳನ್ನು ಕೊಲ್ಲುವ ಔಷಧಗಳು.",
+  "simple_example": "ಗಂಟಲು ನೋವು ಬಂದಾಗ ವೈದ್ಯರು ಆಂಟಿಬಯೋಟಿಕ್ ಮಾತ್ರೆ ನೀಡುತ್ತಾರೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Atom",
+  "kannada_term": "ಪರಮಾಣು",
+  "definition": "ವಸ್ತುವಿನ ಅತ್ಯಂತ ಚಿಕ್ಕ ಘಟಕ.",
+  "simple_example": "ಕಬ್ಬಿಣದ ಚೂರನ್ನು ಪುಡಿಮಾಡುತ್ತಾ ಹೋದರೆ ಸಿಗುವ ಕೊನೆಯ ಸಣ್ಣ ಕಣವೇ ಪರಮಾಣು.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Molecule",
+  "kannada_term": "ಅಣು",
+  "definition": "ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಪರಮಾಣುಗಳ ಗುಂಪು.",
+  "simple_example": "ನೀರಿನ ಒಂದು ಅಣುವಿನಲ್ಲಿ ಹೈಡ್ರೋಜನ್ ಮತ್ತು ಆಮ್ಲಜನಕದ ಪರಮಾಣುಗಳಿರುತ್ತವೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Gravity",
+  "kannada_term": "ಗುರುತ್ವಾಕರ್ಷಣೆ",
+  "definition": "ವಸ್ತುಗಳನ್ನು ತನ್ನ ಕಡೆಗೆ ಎಳೆಯುವ ಬಲ.",
+  "simple_example": "ಮರದಿಂದ ಉದುರಿದ ಹಣ್ಣು ಭೂಮಿಯ ಗುರುತ್ವಾಕರ್ಷಣೆಯಿಂದ ಕೆಳಗೆ ಬೀಳುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Velocity",
+  "kannada_term": "ವೇಗ",
+  "definition": "ನಿರ್ದಿಷ್ಟ ದಿಕ್ಕಿನಲ್ಲಿ ವಸ್ತುವಿನ ಚಲನೆಯ ದರ.",
+  "simple_example": "ಒಂದು ಕಾರು ಉತ್ತರ ದಿಕ್ಕಿಗೆ ಗಂಟೆಗೆ 60 ಕಿ.ಮೀ ವೇಗದಲ್ಲಿ ಚಲಿಸುತ್ತಿದೆ ಎನ್ನುವುದು ವೇಗ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Acceleration",
+  "kannada_term": "ವೇಗೋತ್ಕರ್ಷ",
+  "definition": "ವೇಗ ಬದಲಾಗುವ ದರ.",
+  "simple_example": "ಬೈಕ್ ಓಡಿಸುವಾಗ ಎಕ್ಸಲರೇಟರ್ ಕೊಟ್ಟರೆ ವೇಗ ಹೆಚ್ಚಾಗುವುದು ವೇಗೋತ್ಕರ್ಷ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Friction",
+  "kannada_term": "ಘರ್ಷಣೆ",
+  "definition": "ಚಲನೆಯನ್ನು ವಿರೋಧಿಸುವ ಶಕ್ತಿ.",
+  "simple_example": "ನಾವು ರಸ್ತೆಯ ಮೇಲೆ ಜಾರಿ ಬೀಳದೆ ನಡೆಯಲು ಘರ್ಷಣೆಯೇ ಕಾರಣ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Inertia",
+  "kannada_term": "ಜಡತ್ವ",
+  "definition": "ಬದಲಾವಣೆಯನ್ನು ವಿರೋಧಿಸುವ ಗುಣ.",
+  "simple_example": "ಬಸ್ ಇದ್ದಕ್ಕಿದ್ದಂತೆ ಚಲಿಸಿದಾಗ ನಾವು ಹಿಂದಕ್ಕೆ ವಾಲುವುದು ಜಡತ್ವದಿಂದಾಗಿ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Force",
+  "kannada_term": "ಬಲ",
+  "definition": "ತಳ್ಳುವುದು ಅಥವಾ ಎಳೆಯುವುದು.",
+  "simple_example": "ಮುಚ್ಚಿದ ಬಾಗಿಲನ್ನು ತೆರೆಯಲು ನಾವು ಬಲವನ್ನು ಪ್ರಯೋಗಿಸುತ್ತೇವೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Energy",
+  "kannada_term": "ಶಕ್ತಿ",
+  "definition": "ಕೆಲಸ ಮಾಡುವ ಸಾಮರ್ಥ್ಯ.",
+  "simple_example": "ನಾವು ಓಡಲು ಅಥವಾ ಕೆಲಸ ಮಾಡಲು ನಮಗೆ ಆಹಾರದಿಂದ ಶಕ್ತಿ ಸಿಗುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Pressure",
+  "kannada_term": "ಒತ್ತಡ",
+  "definition": "ಮೇಲ್ಮೈ ಮೇಲೆ ಬೀಳುವ ಲಂಬ ಬಲ.",
+  "simple_example": "ಒಂದು ಮೊಳೆಯನ್ನು ಗೋಡೆಗೆ ಹೊಡೆಯುವಾಗ ಅದರ ತುದಿ ಹೆಚ್ಚಿನ ಒತ್ತಡವನ್ನು ಬೀರುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Reflection",
+  "kannada_term": "ಪ್ರತಿಫಲನ",
+  "definition": "ಬೆಳಕು ಮೇಲ್ಮೈಗೆ ತಗುಲಿ ಹಿಂತಿರುಗುವುದು.",
+  "simple_example": "ಕನ್ನಡಿಯ ಮುಂದೆ ನಿಂತಾಗ ಬೆಳಕು ಪ್ರತಿಫಲಿಸಿ ನಮ್ಮ ಮುಖ ಕಾಣಿಸುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Lens",
+  "kannada_term": "ಮಸೂರ",
+  "definition": "ಬೆಳಕನ್ನು ಕೇಂದ್ರೀಕರಿಸುವ ಸಾಧನ.",
+  "simple_example": "ಕಣ್ಣಿನ ದೃಷ್ಟಿ ಸರಿಪಡಿಸಲು ನಾವು ಕನ್ನಡಕದಲ್ಲಿ ಮಸೂರವನ್ನು ಬಳಸುತ್ತೇವೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Prism",
+  "kannada_term": "ಪಟ್ಟಕ",
+  "definition": "ಬೆಳಕನ್ನು ಏಳು ಬಣ್ಣಗಳಾಗಿ ವಿಭಜಿಸುವ ಸಾಧನ.",
+  "simple_example": "ಸೂರ್ಯನ ಬೆಳಕು ಪಟ್ಟಕದ ಮೂಲಕ ಹೋದಾಗ ಮಳೆಬಿಲ್ಲಿನ ಬಣ್ಣಗಳು ಕಾಣುತ್ತವೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Electricity",
+  "kannada_term": "ವಿದ್ಯುತ್",
+  "definition": "ಎಲೆಕ್ಟ್ರಾನ್‌ಗಳ ಹರಿವು.",
+  "simple_example": "ಸ್ವಿಚ್ ಹಾಕಿದಾಗ ಬಲ್ಬ್ ಬೆಳಗಲು ವಿದ್ಯುತ್ ಹರಿವೇ ಕಾರಣ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Magnetism",
+  "kannada_term": "ಕಾಂತೀಯತೆ",
+  "definition": "ಲೋಹಗಳನ್ನು ಆಕರ್ಷಿಸುವ ಶಕ್ತಿ.",
+  "simple_example": "ದಿಕ್ಸೂಚಿಯಲ್ಲಿರುವ ಮುಳ್ಳು ಭೂಮಿಯ ಕಾಂತೀಯತೆಯಿಂದಾಗಿ ಉತ್ತರ ತೋರಿಸುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Acid",
+  "kannada_term": "ಆಮ್ಲ",
+  "definition": "ಹುಳಿ ರುಚಿ ಹೊಂದಿರುವ ರಾಸಾಯನಿಕ.",
+  "simple_example": "ನಿಂಬೆ ಹಣ್ಣಿನಲ್ಲಿ ಸಿಟ್ರಿಕ್ ಆಮ್ಲವಿರುವುದರಿಂದ ಅದು ಹುಳಿಯಾಗಿರುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Base",
+  "kannada_term": "ಪ್ರತ್ಯಾಮ್ಲ",
+  "definition": "ಕಹಿ ರುಚಿ ಮತ್ತು ನಯವಾದ ರಾಸಾಯನಿಕ.",
+  "simple_example": "ನಾವು ಬಳಸುವ ಸಾಬೂನು ನೀರಿನಲ್ಲಿ ಪ್ರತ್ಯಾಮ್ಲವಿರುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Solution",
+  "kannada_term": "ದ್ರಾವಣ",
+  "definition": "ಎರಡು ವಸ್ತುಗಳ ಸಮಾನ ಮಿಶ್ರಣ.",
+  "simple_example": "ನೀರಿನಲ್ಲಿ ಸಕ್ಕರೆಯನ್ನು ಕರಗಿಸಿದರೆ ನಮಗೆ ಸಕ್ಕರೆಯ ದ್ರಾವಣ ಸಿಗುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Element",
+  "kannada_term": "ಧಾತು",
+  "definition": "ಒಂದೇ ರೀತಿಯ ಪರಮಾಣುಗಳಿಂದಾದ ವಸ್ತು.",
+  "simple_example": "ಬಂಗಾರ ಒಂದು ಧಾತು, ಇದರಲ್ಲಿ ಬಂಗಾರದ ಪರಮಾಣುಗಳು ಮಾತ್ರ ಇರುತ್ತವೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Compound",
+  "kannada_term": "ಸಂಯುಕ್ತ",
+  "definition": "ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಧಾತುಗಳ ಮಿಶ್ರಣ.",
+  "simple_example": "ನೀರು ಒಂದು ಸಂಯುಕ್ತ, ಇದು ಹೈಡ್ರೋಜನ್ ಮತ್ತು ಆಮ್ಲಜನಕದಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Cell",
+  "kannada_term": "ಜೀವಕೋಶ",
+  "definition": "ಜೀವಿಗಳ ರಚನಾತ್ಮಕ ಘಟಕ.",
+  "simple_example": "ಇಟ್ಟಿಗೆಗಳಿಂದ ಗೋಡೆಯಾದಂತೆ, ಕೋಟ್ಯಂತರ ಜೀವಕೋಶಗಳಿಂದ ನಮ್ಮ ದೇಹವಾಗಿದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Tissue",
+  "kannada_term": "ಅಂಗಾಂಶ",
+  "definition": "ಒಂದೇ ರೀತಿಯ ಜೀವಕೋಶಗಳ ಗುಂಪು.",
+  "simple_example": "ನಮ್ಮ ದೇಹದ ಸ್ನಾಯುಗಳು ಕೆಲಸ ಮಾಡಲು ಸ್ನಾಯು ಅಂಗಾಂಶಗಳು ಕಾರಣ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Organ",
+  "kannada_term": "ಅಂಗ",
+  "definition": "ವಿಶಿಷ್ಟ ಕೆಲಸ ಮಾಡುವ ಅಂಗಾಂಶಗಳ ಗುಂಪು.",
+  "simple_example": "ಮೆದುಳು ನಮ್ಮ ದೇಹದ ಒಂದು ಪ್ರಮುಖ ಅಂಗ, ಇದು ಎಲ್ಲವನ್ನೂ ನಿಯಂತ್ರಿಸುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Digestion",
+  "kannada_term": "ಜೀರ್ಣಕ್ರಿಯೆ",
+  "definition": "ಆಹಾರ ಸರಳ ರೂಪಕ್ಕೆ ಬದಲಾಗುವ ಪ್ರಕ್ರಿಯೆ.",
+  "simple_example": "ನಾವು ತಿಂದ ಅನ್ನ ದೇಹಕ್ಕೆ ಶಕ್ತಿಯನ್ನು ನೀಡಲು ಜೀರ್ಣವಾಗಬೇಕು.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Respiration",
+  "kannada_term": "ಉಸಿರಾಟ",
+  "definition": "ಆಮ್ಲಜನಕ ಪಡೆದು ಗಾಳಿ ಬಿಡುವ ಪ್ರಕ್ರಿಯೆ.",
+  "simple_example": "ಪ್ರಾಣಿಗಳು ಬದುಕಲು ನಿರಂತರವಾಗಿ ಉಸಿರಾಟ ನಡೆಸಬೇಕು.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Photosynthesis",
+  "kannada_term": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ",
+  "definition": "ಸಸ್ಯಗಳು ಆಹಾರ ತಯಾರಿಸುವ ಪ್ರಕ್ರಿಯೆ.",
+  "simple_example": "ಗಿಡದ ಎಲೆಗಳು ಸೂರ್ಯನ ಬೆಳಕನ್ನು ಬಳಸಿ ನಮಗೆ ಆಹಾರ ತಯಾರಿಸುತ್ತವೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Reproduction",
+  "kannada_term": "ಸಂತಾನೋತ್ಪತ್ತಿ",
+  "definition": "ಹೊಸ ಜೀವಿಗಳಿಗೆ ಜನ್ಮ ನೀಡುವ ಪ್ರಕ್ರಿಯೆ.",
+  "simple_example": "ಪ್ರಾಣಿಗಳು ತಮ್ಮ ಸಂತತಿಯನ್ನು ಉಳಿಸಲು ಸಂತಾನೋತ್ಪತ್ತಿ ಮಾಡುತ್ತವೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Evolution",
+  "kannada_term": "ವಿಕಾಸ",
+  "definition": "ಜೀವಿಗಳಲ್ಲಿ ಉಂಟಾಗುವ ಬದಲಾವಣೆ.",
+  "simple_example": "ಮನುಷ್ಯರು ಸಾವಿರಾರು ವರ್ಷಗಳಲ್ಲಿ ವಿಕಾಸಗೊಂಡು ಇಂದಿನ ಹಂತಕ್ಕೆ ತಲುಪಿದ್ದಾರೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Pollution",
+  "kannada_term": "ಮಾಲಿನ್ಯ",
+  "definition": "ಪರಿಸರಕ್ಕೆ ಹಾನಿಕಾರಕ ವಸ್ತುಗಳ ಸೇರ್ಪಡೆ.",
+  "simple_example": "ವಾಹನಗಳ ಹೊಗೆ ಗಾಳಿಯನ್ನು ಸೇರಿ ವಾಯು ಮಾಲಿನ್ಯ ಉಂಟಾಗುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Density",
+  "kannada_term": "ಸಾಂದ್ರತೆ",
+  "definition": "ದ್ರವ್ಯರಾಶಿ ಮತ್ತು ಗಾತ್ರದ ಅನುಪಾತ.",
+  "simple_example": "ಕಬ್ಬಿಣದ ಉಂಡೆ ನೀರಿನಲ್ಲಿ ಮುಳುಗುತ್ತದೆ ಏಕೆಂದರೆ ಅದರ ಸಾಂದ್ರತೆ ಹೆಚ್ಚು.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Evaporation",
+  "kannada_term": "ಆವಿಯಾಗುವಿಕೆ",
+  "definition": "ದ್ರವವು ಅನಿಲವಾಗಿ ಬದಲಾಗುವ ಪ್ರಕ್ರಿಯೆ.",
+  "simple_example": "ಒಣಗಲು ಹಾಕಿದ ಬಟ್ಟೆಗಳಲ್ಲಿರುವ ನೀರು ಬಿಸಿಲಿಗೆ ಆವಿಯಾಗಿ ಹಾರಿಹೋಗುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Condensation",
+  "kannada_term": "ಸಾಂದ್ರೀಕರಣ",
+  "definition": "ಹಬೆಯು ದ್ರವವಾಗಿ ಬದಲಾಗುವ ಪ್ರಕ್ರಿಯೆ.",
+  "simple_example": "ತಣ್ಣಗಿನ ನೀರಿನ ಲೋಟದ ಹೊರಭಾಗದಲ್ಲಿ ನೀರಿನ ಹನಿಗಳು ಕಾಣುವುದು ಸಾಂದ್ರೀಕರಣ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Enzyme",
+  "kannada_term": "ಕಿಣ್ವ",
+  "definition": "ಜೈವಿಕ ಕ್ರಿಯೆಗಳನ್ನು ಸುಲಭಗೊಳಿಸುವ ಪ್ರೋಟೀನ್.",
+  "simple_example": "ಲಾಲಾರಸದಲ್ಲಿರುವ ಕಿಣ್ವವು ಆಹಾರವನ್ನು ಜೀರ್ಣಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Nucleus",
+  "kannada_term": "ನ್ಯೂಕ್ಲಿಯಸ್",
+  "definition": "ಜೀವಕೋಶದ ಕೇಂದ್ರ ಭಾಗ.",
+  "simple_example": "ಜೀವಕೋಶದ ನ್ಯೂಕ್ಲಿಯಸ್‌ನಲ್ಲಿ ವಂಶವಾಹಿ ಮಾಹಿತಿಗಳು ಅಡಗಿರುತ್ತವೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Atmosphere",
+  "kannada_term": "ವಾತಾವರಣ",
+  "definition": "ಭೂಮಿಯ ಸುತ್ತಲಿರುವ ಗಾಳಿಯ ಪದರ.",
+  "simple_example": "ವಾತಾವರಣವು ಸೂರ್ಯನ ಹಾನಿಕಾರಕ ಕಿರಣಗಳಿಂದ ಭೂಮಿಯನ್ನು ರಕ್ಷಿಸುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Ecosystem",
+  "kannada_term": "ಪರಿಸರ ವ್ಯವಸ್ಥೆ",
+  "definition": "ಜೀವಿಗಳು ಮತ್ತು ಪರಿಸರದ ನಡುವಿನ ಸಂಬಂಧ.",
+  "simple_example": "ಒಂದು ಸಣ್ಣ ಕೊಳವು ಮೀನು ಮತ್ತು ಗಿಡಗಳನ್ನು ಹೊಂದಿರುವ ಪರಿಸರ ವ್ಯವಸ್ಥೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Alloy",
+  "kannada_term": "ಮಿಶ್ರಲೋಹ",
+  "definition": "ಎರಡು ಅಥವಾ ಹೆಚ್ಚಿನ ಲೋಹಗಳ ಮಿಶ್ರಣ.",
+  "simple_example": "ಸ್ಟೀಲ್ ಎಂಬುದು ಕಬ್ಬಿಣ ಮತ್ತು ಕಾರ್ಬನ್ ಸೇರಿದ ಮಿಶ್ರಲೋಹ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Catalyst",
+  "kannada_term": "ವೇಗವರ್ಧಕ",
+  "definition": "ಕ್ರಿಯೆಯಲ್ಲಿ ಭಾಗವಹಿಸದೆ ಕ್ರಿಯೆಯ ವೇಗ ಹೆಚ್ಚಿಸುವ ವಸ್ತು.",
+  "simple_example": "ವಾಹನಗಳ ಸೈಲೆನ್ಸರ್‌ನಲ್ಲಿ ಹೊಗೆ ಕಡಿಮೆ ಮಾಡಲು ವೇಗವರ್ಧಕ ಬಳಸುತ್ತಾರೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Hemoglobin",
+  "kannada_term": "ಹಿಮೋಗ್ಲೋಬಿನ್",
+  "definition": "ರಕ್ತದಲ್ಲಿ ಆಮ್ಲಜನಕ ಸಾಗಿಸುವ ಪ್ರೋಟೀನ್.",
+  "simple_example": "ದೇಹದಲ್ಲಿ ಕಬ್ಬಿಣದ ಅಂಶ ಕಡಿಮೆಯಾದರೆ ಹಿಮೋಗ್ಲೋಬಿನ್ ಮಟ್ಟ ಇಳಿಯುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Gene",
+  "kannada_term": "ವಂಶವಾಹಿ",
+  "definition": "ಅನುವಂಶಿಕತೆಯ ಮೂಲ ಘಟಕ.",
+  "simple_example": "ತಂದೆ-ತಾಯಿಯ ಹೋಲಿಕೆ ಮಕ್ಕಳಿಗೆ ಬರಲು ವಂಶವಾಹಿಗಳು ಕಾರಣ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Chromosome",
+  "kannada_term": "ವರ್ಣತಂತು",
+  "definition": "ಡಿಎನ್‌ಎ (DNA) ಹೊಂದಿರುವ ದಾರದಂತಹ ರಚನೆ.",
+  "simple_example": "ಮನುಷ್ಯನ ಪ್ರತಿ ಜೀವಕೋಶದಲ್ಲಿ ೪೬ ವರ್ಣತಂತುಗಳಿರುತ್ತವೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Antibody",
+  "kannada_term": "ಪ್ರತಿಕಾಯ",
+  "definition": "ರೋಗಾಣುಗಳ ವಿರುದ್ಧ ಹೋರಾಡುವ ಪ್ರೋಟೀನ್.",
+  "simple_example": "ಲಸಿಕೆಗಳು ನಮ್ಮ ದೇಹದಲ್ಲಿ ರೋಗಗಳ ವಿರುದ್ಧ ಪ್ರತಿಕಾಯಗಳನ್ನು ಸೃಷ್ಟಿಸುತ್ತವೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Hormone",
+  "kannada_term": "ಹಾರ್ಮೋನ್",
+  "definition": "ದೇಹದ ಚಟುವಟಿಕೆ ನಿಯಂತ್ರಿಸುವ ರಾಸಾಯನಿಕ ಸಂದೇಶವಾಹಕ.",
+  "simple_example": "ಇನ್ಸುಲಿನ್ ರಕ್ತದಲ್ಲಿನ ಸಕ್ಕರೆ ಪ್ರಮಾಣವನ್ನು ನಿಯಂತ್ರಿಸುವ ಹಾರ್ಮೋನ್.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Vacuum",
+  "kannada_term": "ನಿರ್ವಾತ",
+  "definition": "ಯಾವುದೇ ಗಾಳಿ ಅಥವಾ ಮ್ಯಾಟರ್ ಇಲ್ಲದ ಪ್ರದೇಶ.",
+  "simple_example": "ಬಾಹ್ಯಾಕಾಶವು ಒಂದು ನಿರ್ವಾತ ಪ್ರದೇಶವಾಗಿದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Ultrasound",
+  "kannada_term": "ಅಲ್ಟ್ರಾಸೌಂಡ್",
+  "definition": "ಅತಿ ಹೆಚ್ಚಿನ ಆವರ್ತನದ ಧ್ವನಿ ಅಲೆಗಳು.",
+  "simple_example": "ಹೊಟ್ಟೆಯ ಒಳಗಿರುವ ಶಿಶುವಿನ ಆರೋಗ್ಯ ತಿಳಿಯಲು ಅಲ್ಟ್ರಾಸೌಂಡ್ ಬಳಸುತ್ತಾರೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Cornea",
+  "kannada_term": "ಕಣ್ಣಿನ ಪಾಪೆ",
+  "definition": "ಕಣ್ಣಿನ ಮುಂಭಾಗದ ಪಾರದರ್ಶಕ ಪದರ.",
+  "simple_example": "ಕಣ್ಣಿನ ದಾನ ಮಾಡುವಾಗ ಈ ಪಾರದರ್ಶಕ ಪದರವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Transpiration",
+  "kannada_term": "ಬಾಷ್ಪವಿಸರ್ಜನೆ",
+  "definition": "ಸಸ್ಯಗಳು ಎಲೆಗಳ ಮೂಲಕ ನೀರನ್ನು ಹಬೆಯಾಗಿ ಬಿಡುವುದು.",
+  "simple_example": "ಬಿಸಿಲಿದ್ದಾಗ ಸಸ್ಯಗಳು ಹೆಚ್ಚು ಬಾಷ್ಪವಿಸರ್ಜನೆ ಮಾಡುತ್ತವೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Apoptosis",
+  "kannada_term": "ಅಪೊಪ್ಟೋಸಿಸ್",
+  "definition": "ಜೀವಕೋಶಗಳ ಯೋಜಿತ ಸಾವು.",
+  "simple_example": "ಮನುಷ್ಯನ ಭ್ರೂಣದ ಬೆಳವಣಿಗೆಯಲ್ಲಿ ಬೆರಳುಗಳ ನಡುವಿನ ಪೊರೆಗಳು ಈ ಪ್ರಕ್ರಿಯೆಯಿಂದ ಕಣ್ಮರೆಯಾಗುತ್ತವೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Bioluminescence",
+  "kannada_term": "ಜೈವಿಕ ದೀಪ್ತಿ",
+  "definition": "ಜೀವಿಗಳು ಬೆಳಕನ್ನು ಹೊರಸೂಸುವ ಸಾಮರ್ಥ್ಯ.",
+  "simple_example": "ಮಿಂಚುಹುಳುಗಳು ರಾತ್ರಿ ವೇಳೆ ಬೆಳಕು ಬೀರುವುದು ಜೈವಿಕ ದೀಪ್ತಿಗೆ ಉದಾಹರಣೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Centripetal",
+  "kannada_term": "ಅಭಿಕೇಂದ್ರ",
+  "definition": "ವೃತ್ತಾಕಾರದ ಪಥದಲ್ಲಿ ಕೇಂದ್ರದ ಕಡೆಗೆ ಎಳೆಯುವ ಬಲ.",
+  "simple_example": "ದಾರಕ್ಕೆ ಕಟ್ಟಿದ ಕಲ್ಲನ್ನು ಸುತ್ತುವಾಗ ಕೈಗೆ ಬಲ ಅನ್ವಯವಾಗುವುದು ಅಭಿಕೇಂದ್ರ ಬಲ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Diffusion",
+  "kannada_term": "ಪ್ರಸರಣ",
+  "definition": "ಕಣಗಳು ಹೆಚ್ಚಿನ ಸಾಂದ್ರತೆಯಿಂದ ಕಡಿಮೆ ಸಾಂದ್ರತೆಗೆ ಹರಡುವುದು.",
+  "simple_example": "ಅಗರಬತ್ತಿಯ ವಾಸನೆ ಇಡೀ ಕೋಣೆಗೆ ಹರಡುವುದು ಪ್ರಸರಣ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Entropy",
+  "kannada_term": "ಎಂಟ್ರೋಪಿ",
+  "definition": "ವ್ಯವಸ್ಥೆಯಲ್ಲಿನ ಅವ್ಯವಸ್ಥೆಯ ಅಳತೆ.",
+  "simple_example": "ಮಂಜುಗಡ್ಡೆ ಕರಗಿ ನೀರಾದಾಗ ಅದರಲ್ಲಿನ ಎಂಟ್ರೋಪಿ ಹೆಚ್ಚಾಗುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Fermentation",
+  "kannada_term": "ಹುದುಗುವಿಕೆ",
+  "definition": "ಆಮ್ಲಜನಕವಿಲ್ಲದೆ ಸಕ್ಕರೆಯು ಆಲ್ಕೋಹಾಲ್ ಆಗಿ ಬದಲಾಗುವ ಕ್ರಿಯೆ.",
+  "simple_example": "ದೋಸೆ ಹಿಟ್ಟು ರಾತ್ರಿ ಪೂರ್ತಿ ಇಟ್ಟಾಗ ಉಬ್ಬುವುದು ಈ ಕ್ರಿಯೆಯಿಂದ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Homeostasis",
+  "kannada_term": "ಸಮಸ್ಥಿತಿ",
+  "definition": "ದೇಹವು ತನ್ನ ಒಳಗಿನ ಪರಿಸರವನ್ನು ಸ್ಥಿರವಾಗಿಟ್ಟುಕೊಳ್ಳುವ ಸ್ಥಿತಿ.",
+  "simple_example": "ಹೊರಗೆ ಚಳಿಯಿದ್ದರೂ ನಮ್ಮ ದೇಹದ ಉಷ್ಣತೆ ಸ್ಥಿರವಾಗಿರುವುದು ಸಮಸ್ಥಿತಿ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Radioactivity",
+  "kannada_term": "ವಿಕಿರಣಶೀಲತೆ",
+  "definition": "ಪರಮಾಣು ಕೇಂದ್ರದಿಂದ ಶಕ್ತಿ ಬಿಡುಗಡೆಯಾಗುವ ಪ್ರಕ್ರಿಯೆ.",
+  "simple_example": "ಯುರೇನಿಯಂ ಧಾತುವು ನಿರಂತರವಾಗಿ ವಿಕಿರಣಗಳನ್ನು ಹೊರಸೂಸುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Symbiosis",
+  "kannada_term": "ಸಹಜೀವನ",
+  "definition": "ಎರಡು ಜೀವಿಗಳು ಪರಸ್ಪರ ಸಹಕರಿಸುತ್ತಾ ಬದುಕುವ ಸ್ಥಿತಿ.",
+  "simple_example": "ಜೇನುನೊಣಗಳು ಹೂವುಗಳಿಂದ ಜೇನು ಪಡೆಯುತ್ತಾ ಪರಾಗಸ್ಪರ್ಶಕ್ಕೆ ಸಹಾಯ ಮಾಡುವುದು ಸಹಜೀವನ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Thermodynamics",
+  "kannada_term": "ಉಷ್ಣಗತಿಶಾಸ್ತ್ರ",
+  "definition": "ಶಾಖ ಮತ್ತು ಕೆಲಸದ ನಡುವಿನ ಸಂಬಂಧದ ಅಧ್ಯಯನ.",
+  "simple_example": "ರೆಫ್ರಿಜರೇಟರ್ ಕೆಲಸ ಮಾಡುವ ತತ್ವ ಉಷ್ಣಗತಿಶಾಸ್ತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Xylem",
+  "kannada_term": "ಕ್ಸೈಲಂ",
+  "definition": "ಸಸ್ಯಗಳಲ್ಲಿ ನೀರನ್ನು ಸಾಗಿಸುವ ಅಂಗಾಂಶ.",
+  "simple_example": "ಬೇರುಗಳಿಂದ ಎಲೆಗಳಿಗೆ ನೀರು ಕ್ಸೈಲಂ ಮೂಲಕ ತಲುಪುತ್ತದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Osmosis",
+  "kannada_term": "ಅಭಿಸರಣೆ",
+  "definition": "ಅರೆಪಾರಕ ಪೊರೆಯ ಮೂಲಕ ದ್ರಾವಣದ ಚಲನೆ.",
+  "simple_example": "ಒಣದ್ರಾಕ್ಷಿಯನ್ನು ನೀರಿನಲ್ಲಿ ಹಾಕಿದಾಗ ಅದು ನೀರನ್ನು ಹೀರಿ ಉಬ್ಬುವುದು ಅಭಿಸರಣೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Refraction",
+  "kannada_term": "ವಕ್ರೀಭವನ",
+  "definition": "ಬೆಳಕು ಒಂದು ಮಾಧ್ಯಮದಿಂದ ಇನ್ನೊಂದಕ್ಕೆ ಹೋದಾಗ ಬಾಗುವುದು.",
+  "simple_example": "ನೀರಿನ ಗ್ಲಾಸ್‌ನಲ್ಲಿಟ್ಟ ಪೆನ್ಸಿಲ್ ಬಾಗಿರುವಂತೆ ಕಾಣುವುದು ವಕ್ರೀಭವನ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Viscosity",
+  "kannada_term": "ಸ್ನಿಗ್ಧತೆ",
+  "definition": "ದ್ರವದ ಹರಿವನ್ನು ವಿರೋಧಿಸುವ ಗುಣ.",
+  "simple_example": "ಜೇನುತುಪ್ಪವು ನೀರಿಗಿಂತ ಹೆಚ್ಚಿನ ಸ್ನಿಗ್ಧತೆಯನ್ನು ಹೊಂದಿದೆ.",
+  "subject": "Science",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Square Root",
+  "kannada_term": "ವರ್ಗಮೂಲ",
+  "definition": "ಒಂದು ಸಂಖ್ಯೆಯನ್ನು ಅದೇ ಸಂಖ್ಯೆಯಿಂದ ಗುಣಿಸಿದಾಗ ಬರುವ ಮೂಲ.",
+  "simple_example": "9 ರ ವರ್ಗಮೂಲ 3, ಏಕೆಂದರೆ 3x3 = 9.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Asymptote",
+  "kannada_term": "ಅನಂತಸ್ಪರ್ಶಕ",
+  "definition": "ರೇಖೆಯು ವಕ್ರರೇಖೆಯನ್ನು ಮುಟ್ಟದೆ ಸಮೀಪಿಸುತ್ತಾ ಹೋಗುವ ಸ್ಥಿತಿ.",
+  "simple_example": "ಗ್ರಾಫ್‌ನಲ್ಲಿ ಕೆಲವು ರೇಖೆಗಳು ಅಕ್ಷಗಳನ್ನು ಎಂದಿಗೂ ಮುಟ್ಟದೆ ಸಾಗುತ್ತವೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Binomial",
+  "kannada_term": "ದ್ವಿಪದ",
+  "definition": "ಎರಡು ಪದಗಳನ್ನು ಹೊಂದಿರುವ ಬೀಜೋಕ್ತಿ.",
+  "simple_example": "(a + b) ಎಂಬುದು ಒಂದು ದ್ವಿಪದಕ್ಕೆ ಉದಾಹರಣೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Calculus",
+  "kannada_term": "ಕಲನಶಾಸ್ತ್ರ",
+  "definition": "ಬದಲಾವಣೆಯ ದರವನ್ನು ಅಧ್ಯಯನ ಮಾಡುವ ಗಣಿತದ ಶಾಖೆ.",
+  "simple_example": "ಗ್ರಹಗಳ ಚಲನೆಯ ವೇಗವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಕಲನಶಾಸ್ತ್ರ ಬಳಸುತ್ತಾರೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Derivative",
+  "kannada_term": "ಉತ್ಪನ್ನ",
+  "definition": "ಒಂದು ಪ್ರಮಾಣವು ಇನ್ನೊಂದರ ಮೇಲೆ ಹೇಗೆ ಬದಲಾಗುತ್ತದೆ ಎಂಬ ಅಳತೆ.",
+  "simple_example": "ದೂರದ ಬದಲಾವಣೆಯ ದರವೇ ವೇಗ, ಇದು ದೂರದ ಉತ್ಪನ್ನವಾಗಿದೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Exponential",
+  "kannada_term": "ಘಾತೀಯ",
+  "definition": "ವೇಗವಾಗಿ ಹೆಚ್ಚಾಗುವ ಅಥವಾ ಇಳಿಕೆಯಾಗುವ ದರ.",
+  "simple_example": "ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳ ಸಂಖ್ಯೆ ಪ್ರತಿ ಗಂಟೆಗೆ ದುಪ್ಪಟ್ಟಾಗುವುದು ಘಾತೀಯ ಬೆಳವಣಿಗೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Factorial",
+  "kannada_term": "ಅಪವರ್ತನೀಯ",
+  "definition": "ಸಂಖ್ಯೆಯಿಂದ ಒಂದರವರೆಗಿನ ಎಲ್ಲಾ ಸಂಖ್ಯೆಗಳ ಗುಣಲಬ್ಧ.",
+  "simple_example": "3 ರ ಅಪವರ್ತನೀಯ (3!) ಎಂದರೆ 3 x 2 x 1 = 6.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Hypotenuse",
+  "kannada_term": "ವಿಕರ್ಣ",
+  "definition": "ಲಂಬಕೋನ ತ್ರಿಕೋನದಲ್ಲಿ ಲಂಬಕೋನಕ್ಕೆ ಎದುರಾಗಿರುವ ದೊಡ್ಡ ಬಾಹು.",
+  "simple_example": "ತ್ರಿಕೋನದ ಸ್ಲೈಡ್‌ನಲ್ಲಿ ಏರುವ ಭಾಗವೇ ವಿಕರ್ಣ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Matrix",
+  "kannada_term": "ಮ್ಯಾಟ್ರಿಕ್ಸ್",
+  "definition": "ಸಂಖ್ಯೆಗಳನ್ನು ಸಾಲು ಮತ್ತು ಕಂಬ ಸಾಲುಗಳಲ್ಲಿ ಜೋಡಿಸಿದ ರಚನೆ.",
+  "simple_example": "ಫೋಟೋಗಳನ್ನು ಪಿಕ್ಸೆಲ್‌ಗಳ ರೂಪದಲ್ಲಿ ಮ್ಯಾಟ್ರಿಕ್ಸ್‌ನಲ್ಲಿ ಸಂಗ್ರಹಿಸಲಾಗುತ್ತದೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Numerator",
+  "kannada_term": "ಅಂಶ",
+  "definition": "ಭಿನ್ನರಾಶಿಯಲ್ಲಿ ಗೆರೆಯ ಮೇಲಿರುವ ಸಂಖ್ಯೆ.",
+  "simple_example": "3\/4 ರಲ್ಲಿ 3 ಎಂಬುದು ಅಂಶವಾಗಿದೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Parabola",
+  "kannada_term": "ಪರವಲಯ",
+  "definition": "ಅರ್ಧವೃತ್ತಾಕಾರದಂತೆ ಕಾಣುವ ವಿಶಿಷ್ಟ ವಕ್ರರೇಖೆ.",
+  "simple_example": "ಚಿಮ್ಮಿದ ಚೆಂಡು ಆಕಾಶದಲ್ಲಿ ಚಲಿಸುವ ಹಾದಿ ಪರವಲಯದಂತೆ ಇರುತ್ತದೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Median",
+  "kannada_term": "ಮಧ್ಯಾಂಕ",
+  "definition": "ಏರಿಕೆ ಕ್ರಮದಲ್ಲಿ ಜೋಡಿಸಿದಾಗ ಮಧ್ಯದಲ್ಲಿ ಬರುವ ಬೆಲೆ.",
+  "simple_example": "5 ಜನರ ಎತ್ತರದಲ್ಲಿ ಮಧ್ಯದ ವ್ಯಕ್ತಿಯ ಎತ್ತರವೇ ಮಧ್ಯಾಂಕ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Geometry",
+  "kannada_term": "ರೇಖಾಗಣಿತ",
+  "definition": "ಆಕಾರಗಳು, ಗಾತ್ರಗಳು ಮತ್ತು ಅವುಗಳ ಗುಣಲಕ್ಷಣಗಳ ಅಧ್ಯಯನ.",
+  "simple_example": "ವೃತ್ತ, ತ್ರಿಕೋನಗಳ ಬಗ್ಗೆ ಕಲಿಯುವುದು ರೇಖಾಗಣಿತ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Point",
+  "kannada_term": "ಬಿಂದು",
+  "definition": "ಸ್ಥಾನವನ್ನು ಸೂಚಿಸುವ ಒಂದು ಸಣ್ಣ ಚುಕ್ಕೆ.",
+  "simple_example": "ಕಾಗದದ ಮೇಲೆ ಪೆನ್ಸಿಲ್‌ನಿಂದ ಇಡುವ ಒಂದು ಸಣ್ಣ ಗುರುತು ಬಿಂದು.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Line",
+  "kannada_term": "ರೇಖೆ",
+  "definition": "ಎರಡು ದಿಕ್ಕುಗಳಲ್ಲಿ ಅಂತ್ಯವಿಲ್ಲದೆ ಚಲಿಸುವ ನೇರ ಹಾದಿ.",
+  "simple_example": "ಸ್ಕೇಲ್ ಬಳಸಿ ಎಳೆಯುವ ನೇರವಾದ ಗುರುತು ರೇಖೆಯಾಗಿದೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Angle",
+  "kannada_term": "ಕೋನ",
+  "definition": "ಎರಡು ರೇಖೆಗಳು ಒಂದೇ ಬಿಂದುವಿನಲ್ಲಿ ಸಂಧಿಸಿದಾಗ ಉಂಟಾಗುವ ಅಂತರ.",
+  "simple_example": "ಗೋಡೆಯ ಎರಡು ಮೂಲೆಗಳು ಸೇರುವ ಜಾಗದಲ್ಲಿ ಕೋನವಿರುತ್ತದೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Triangle",
+  "kannada_term": "ತ್ರಿಕೋನ",
+  "definition": "ಮೂರು ಬಾಹುಗಳು ಮತ್ತು ಮೂರು ಕೋನಗಳಿರುವ ಆಕೃತಿ.",
+  "simple_example": "ನಾವು ತಿನ್ನುವ ಸಮೋಸ ಅಥವಾ ಸೆಟ್ ಸ್ಕ್ವೇರ್ ತ್ರಿಕೋನ ಆಕಾರದಲ್ಲಿರುತ್ತದೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Quadrilateral",
+  "kannada_term": "ಚತುರ್ಭುಜ",
+  "definition": "ನಾಲ್ಕು ಬಾಹುಗಳಿರುವ ಮುಚ್ಚಿದ ಆಕೃತಿ.",
+  "simple_example": "ಟೇಬಲ್‌ನ ಮೇಲ್ಭಾಗ ಅಥವಾ ಪುಸ್ತಕದ ಆಕಾರ ಚತುರ್ಭುಜಕ್ಕೆ ಉದಾಹರಣೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Circle",
+  "kannada_term": "ವೃತ್ತ",
+  "definition": "ಕೇಂದ್ರದಿಂದ ಸಮಾನ ದೂರವಿರುವ ಬಿಂದುಗಳ ಸಮೂಹ.",
+  "simple_example": "ಬಳೆ ಅಥವಾ ರೂಪಾಯಿ ಕಾಯಿನ್ ವೃತ್ತಾಕಾರದಲ್ಲಿರುತ್ತದೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Perimeter",
+  "kannada_term": "ಸುತ್ತಳತೆ",
+  "definition": "ಒಂದು ಆಕೃತಿಯ ಹೊರಬದಿಯ ಒಟ್ಟು ಉದ್ದ.",
+  "simple_example": "ಜಮೀನಿನ ಸುತ್ತ ಬೇಲಿ ಹಾಕಲು ನಾವು ಸುತ್ತಳತೆಯನ್ನು ಅಳೆಯುತ್ತೇವೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Area",
+  "kannada_term": "ವಿಸ್ತೀರ್ಣ",
+  "definition": "ಒಂದು ಆಕೃತಿಯು ಆಕ್ರಮಿಸಿರುವ ಒಟ್ಟು ಮೇಲ್ಮೈ ಜಾಗ.",
+  "simple_example": "ಮನೆಗೆ ಟೈಲ್ಸ್ ಹಾಕಲು ನೆಲದ ವಿಸ್ತೀರ್ಣವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Volume",
+  "kannada_term": "ಘನಫಲ",
+  "definition": "ಒಂದು ವಸ್ತುವು ಆಕ್ರಮಿಸುವ ಒಟ್ಟು ಸ್ಥಳ.",
+  "simple_example": "ನೀರಿನ ಟ್ಯಾಂಕ್‌ನಲ್ಲಿ ಎಷ್ಟು ಲೀಟರ್ ನೀರು ಹಿಡಿಯುತ್ತದೆ ಎನ್ನುವುದು ಅದರ ಘನಫಲ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Symmetry",
+  "kannada_term": "ಸಮ್ಮಿತಿ",
+  "definition": "ಒಂದು ಆಕೃತಿಯನ್ನು ಎರಡು ಸಮಾನ ಭಾಗಗಳಾಗಿ ಮಾಡುವುದು.",
+  "simple_example": "ಚಿಟ್ಟೆಯ ರೆಕ್ಕೆಗಳನ್ನು ಮಡಚಿದಾಗ ಅವು ಒಂದಕ್ಕೊಂದು ಸರಿಯಾಗಿ ಹೊಂದುತ್ತವೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Statistics",
+  "kannada_term": "ಸಂಖ್ಯಾಶಾಸ್ತ್ರ",
+  "definition": "ದತ್ತಾಂಶಗಳನ್ನು ಸಂಗ್ರಹಿಸುವ ಮತ್ತು ವಿಶ್ಲೇಷಿಸುವ ಗಣಿತ.",
+  "simple_example": "ಪಂದ್ಯದ ಸ್ಕೋರ್ ಬೋರ್ಡ್ ಅಥವಾ ಜನಗಣತಿ ವಿವರಗಳು ಸಂಖ್ಯಾಶಾಸ್ತ್ರದ ಭಾಗ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Mean",
+  "kannada_term": "ಸರಾಸರಿ",
+  "definition": "ಒಟ್ಟು ಮೊತ್ತವನ್ನು ಸಂಖ್ಯೆಗಳ ಸಂಖ್ಯೆಯಿಂದ ಭಾಗಿಸುವುದು.",
+  "simple_example": "ತರಗತಿಯಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿಗಳ ಸರಾಸರಿ ಅಂಕಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Trigonometry",
+  "kannada_term": "ತ್ರಿಕೋನಮಿತಿ",
+  "definition": "ತ್ರಿಕೋನಗಳ ಬಾಹುಗಳು ಮತ್ತು ಕೋನಗಳ ನಡುವಿನ ಸಂಬಂಧದ ಅಧ್ಯಯನ.",
+  "simple_example": "ದೊಡ್ಡ ಗೋಪುರ ಅಥವಾ ಮರದ ಎತ್ತರವನ್ನು ಅಳೆಯಲು ತ್ರಿಕೋನಮಿತಿ ಬಳಸುತ್ತಾರೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Algorithm",
+  "kannada_term": "ಕ್ರಮಾವಳಿ",
+  "definition": "ಲೆಕ್ಕ ಬಿಡಿಸಲು ಬಳಸುವ ಹಂತ ಹಂತದ ಕ್ರಮ.",
+  "simple_example": "ಚಹಾ ಮಾಡುವ ವಿಧಾನವು ಒಂದು ಅಲ್ಗಾರಿದಮ್ ಅಥವಾ ಕ್ರಮಾವಳಿಯಿದ್ದಂತೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Polynomial",
+  "kannada_term": "ಬಹುಪದೋಕ್ತಿ",
+  "definition": "ಚರಾಕ್ಷರಗಳು ಮತ್ತು ಸ್ಥಿರಾಂಕಗಳ ಗಣಿತದ ಹೇಳಿಕೆ.",
+  "simple_example": "3x² + 2x + 1 ಎಂಬುದು ಒಂದು ಬಹುಪದೋಕ್ತಿ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Diagonal",
+  "kannada_term": "ಕರ್ಣ",
+  "definition": "ಆಕೃತಿಯ ವಿರುದ್ಧ ಮೂಲೆಗಳನ್ನು ಸೇರಿಸುವ ರೇಖೆ.",
+  "simple_example": "ಆಯತಾಕಾರದ ಮೈದಾನದ ಒಂದು ಮೂಲೆಯಿಂದ ಇನ್ನೊಂದು ಮೂಲೆಗೆ ಹೋಗುವ ದಾರಿ ಕರ್ಣ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Tangent",
+  "kannada_term": "ಸ್ಪರ್ಶಕ",
+  "definition": "ವೃತ್ತವನ್ನು ಒಂದು ಬಿಂದುವಿನಲ್ಲಿ ಮಾತ್ರ ಮುಟ್ಟುವ ರೇಖೆ.",
+  "simple_example": "ನೆಲದ ಮೇಲೆ ಉರುಳುವ ಚಕ್ರವು ನೆಲಕ್ಕೆ ಮುಟ್ಟುವ ಬಿಂದುವಿನಲ್ಲಿ ಸ್ಪರ್ಶಕವಿರುತ್ತದೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Prime Number",
+  "kannada_term": "ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ",
+  "definition": "೧ ಮತ್ತು ಅದೇ ಸಂಖ್ಯೆಯಿಂದ ಮಾತ್ರ ಭಾಗವಾಗುವ ಸಂಖ್ಯೆ.",
+  "simple_example": "೭ ಅಥವಾ ೧೧ ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆಗಳು, ಇವು ಬೇರೆ ಮಗ್ಗಿಯಲ್ಲಿ ಬರುವುದಿಲ್ಲ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Quotient",
+  "kannada_term": "ಭಾಗಲಬ್ಧ",
+  "definition": "ಭಾಗಾಕಾರ ಮಾಡಿದಾಗ ಸಿಗುವ ಉತ್ತರ.",
+  "simple_example": "೧೦ ನ್ನು ೨ ರಿಂದ ಭಾಗಿಸಿದಾಗ ಬರುವ ೫ ಭಾಗಲಬ್ಧವಾಗಿದೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Remainder",
+  "kannada_term": "ಶೇಷ",
+  "definition": "ಭಾಗಾಕಾರ ಮಾಡಿದಾಗ ಉಳಿಯುವ ಉಳಿಕೆ.",
+  "simple_example": "೧೧ ನ್ನು ೨ ರಿಂದ ಭಾಗಿಸಿದಾಗ ೧ ಶೇಷವಾಗಿ ಉಳಿಯುತ್ತದೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Rational Number",
+  "kannada_term": "ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆ",
+  "definition": "p\/q ರೂಪದಲ್ಲಿ ಬರೆಯಬಹುದಾದ ಸಂಖ್ಯೆ.",
+  "simple_example": "೧\/೨ ಅಥವಾ ೩\/೪ ಇವು ಭಾಗಲಬ್ಧ ಸಂಖ್ಯೆಗಳು.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Theorem",
+  "kannada_term": "ಪ್ರಮೇಯ",
+  "definition": "ತಾರ್ಕಿಕವಾಗಿ ಸಾಬೀತುಪಡಿಸಲಾದ ಸತ್ಯ ಹೇಳಿಕೆ.",
+  "simple_example": "ಪೈಥಾಗೊರಸ್ ಪ್ರಮೇಯವು ತ್ರಿಕೋನದ ಬಾಹುಗಳ ಅಳತೆ ತಿಳಿಯಲು ಸಹಕಾರಿ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Infinity",
+  "kannada_term": "ಅನಂತ",
+  "definition": "ಅಂತ್ಯವಿಲ್ಲದ ಅಥವಾ ಎಣಿಕೆಗೆ ಸಿಗದ ಸ್ಥಿತಿ.",
+  "simple_example": "ಆಕಾಶದಲ್ಲಿರುವ ನಕ್ಷತ್ರಗಳ ಸಂಖ್ಯೆ ಅನಂತವಾದುದು.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Set Theory",
+  "kannada_term": "ಗಣ ಸಿದ್ಧಾಂತ",
+  "definition": "ವಸ್ತುಗಳ ಗುಂಪುಗಳ ಬಗ್ಗೆ ಅಭ್ಯಸಿಸುವ ಗಣಿತ.",
+  "simple_example": "ಸಮ ಸಂಖ್ಯೆಗಳ ಗುಂಪು ಅಥವಾ ಹಣ್ಣುಗಳ ಗುಂಪನ್ನು 'ಗಣ' ಎನ್ನಬಹುದು.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Diameter",
+  "kannada_term": "ವ್ಯಾಸ",
+  "definition": "ವೃತ್ತದ ಕೇಂದ್ರದ ಮೂಲಕ ಹಾದುಹೋಗುವ ದೊಡ್ಡ ರೇಖೆ.",
+  "simple_example": "೫ ಸೆಂ.ಮೀ ತ್ರಿಜ್ಯವಿರುವ ಬಳೆಯ ವ್ಯಾಸ ೧೦ ಸೆಂ.ಮೀ ಇರುತ್ತದೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Coordinates",
+  "kannada_term": "ನಿರ್ದೇಶಾಂಕಗಳು",
+  "definition": "ಒಂದು ಬಿಂದುವಿನ ಸ್ಥಾನ ತಿಳಿಸುವ ಸಂಖ್ಯೆಗಳು.",
+  "simple_example": "ನಕ್ಷೆಯಲ್ಲಿ ಒಂದು ಊರಿನ ಸ್ಥಾನವನ್ನು ಅಕ್ಷಾಂಶ ಮತ್ತು ರೇಖಾಂಶಗಳ ಮೂಲಕ ತಿಳಿಸುವುದು.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Probability",
+  "kannada_term": "ಸಂಭವನೀಯತೆ",
+  "definition": "ಒಂದು ಘಟನೆ ನಡೆಯುವ ಸಾಧ್ಯತೆಯ ಅಳತೆ.",
+  "simple_example": "ಇಂದು ಮಳೆ ಬರಬಹುದು ಅಥವಾ ಬಾರದಿರಬಹುದು ಎನ್ನುವ ಸಾಧ್ಯತೆಯೇ ಸಂಭವನೀಯತೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Linear Equation",
+  "kannada_term": "ರೇಖಾತ್ಮಕ ಸಮೀಕರಣ",
+  "definition": "ಗರಿಷ್ಠ ಘಾತ ೧ ಇರುವ ಸಮೀಕರಣ.",
+  "simple_example": "2x + 3 = 7 ಎಂಬುದು ಒಂದು ರೇಖಾತ್ಮಕ ಸಮೀಕರಣಕ್ಕೆ ಉದಾಹರಣೆ.",
+  "subject": "Math",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Demand",
+  "kannada_term": "ಬೇಡಿಕೆ",
+  "definition": "ಗ್ರಾಹಕರು ನಿರ್ದಿಷ್ಟ ಬೆಲೆಯಲ್ಲಿ ಕೊಳ್ಳಲು ಬಯಸುವ ಪ್ರಮಾಣ.",
+  "simple_example": "ಹಬ್ಬದ ಸಮಯದಲ್ಲಿ ಹೊಸ ಬಟ್ಟೆಗಳಿಗೆ ಬೇಡಿಕೆ ಹೆಚ್ಚಿರುತ್ತದೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Supply",
+  "kannada_term": "ಪೂರೈಕೆ",
+  "definition": "ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಮಾರಾಟಕ್ಕೆ ಲಭ್ಯವಿರುವ ವಸ್ತುಗಳ ಪ್ರಮಾಣ.",
+  "simple_example": "ಮಳೆಗಾಲದಲ್ಲಿ ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಕೊಡೆಗಳ ಪೂರೈಕೆ ಹೆಚ್ಚಿರುತ್ತದೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Equity",
+  "kannada_term": "ಇಕ್ವಿಟಿ",
+  "definition": "ಆಸ್ತಿಗಳಿಂದ ಹೊಣೆಗಾರಿಕೆ ಕಳೆದ ನಂತರ ಉಳಿಯುವ ಮಾಲೀಕರ ಪಾಲು.",
+  "simple_example": "ಕಂಪನಿಯ ಒಟ್ಟು ಆಸ್ತಿಯಲ್ಲಿ ಮಾಲೀಕನ ನಿಜವಾದ ಪಾಲು ಇಕ್ವಿಟಿ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Debit",
+  "kannada_term": "ಖರ್ಚು (ಡೆಬಿಟ್)",
+  "definition": "ಖಾತೆಯಿಂದ ಹಣ ಹೊರಹೋದಾಗ ಮಾಡುವ ದಾಖಲೆ.",
+  "simple_example": "ಬ್ಯಾಂಕ್‌ನಿಂದ ಹಣ ಡ್ರಾ ಮಾಡಿದಾಗ ನಮ್ಮ ಖಾತೆ ಡೆಬಿಟ್ ಆಗುತ್ತದೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Credit",
+  "kannada_term": "ಜಮಾ (ಕ್ರೆಡಿಟ್)",
+  "definition": "ಖಾತೆಗೆ ಹಣ ಬಂದಾಗ ಮಾಡುವ ದಾಖಲೆ.",
+  "simple_example": "ಸಂಬಳ ಬಂದಾಗ ನಮ್ಮ ಬ್ಯಾಂಕ್ ಖಾತೆ ಕ್ರೆಡಿಟ್ ಆಗುತ್ತದೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Account",
+  "kannada_term": "ಖಾತೆ",
+  "definition": "ಹಣಕಾಸಿನ ವಹಿವಾಟುಗಳ ವ್ಯವಸ್ಥಿತ ದಾಖಲೆ.",
+  "simple_example": "ಬ್ಯಾಂಕ್‌ನಲ್ಲಿ ಹಣ ಉಳಿಸಲು ನಾವು ಉಳಿತಾಯ ಖಾತೆಯನ್ನು ತೆರೆಯುತ್ತೇವೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Assets",
+  "kannada_term": "ಆಸ್ತಿಗಳು",
+  "definition": "ಸಂಸ್ಥೆಯ ಮಾಲೀಕತ್ವದಲ್ಲಿರುವ ಮೌಲ್ಯಯುತ ವಸ್ತುಗಳು.",
+  "simple_example": "ಕಂಪನಿಯ ಕಟ್ಟಡ, ಯಂತ್ರಗಳು ಮತ್ತು ನಗದು ಹಣವು ಅದರ ಆಸ್ತಿಗಳು.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Liabilities",
+  "kannada_term": "ಹೊಣೆಗಾರಿಕೆಗಳು",
+  "definition": "ಸಂಸ್ಥೆಯು ಇತರರಿಗೆ ನೀಡಬೇಕಾದ ಸಾಲ ಅಥವಾ ಹಣ.",
+  "simple_example": "ಬ್ಯಾಂಕ್‌ನಿಂದ ಪಡೆದ ಸಾಲವು ಒಂದು ಕಂಪನಿಯ ಹೊಣೆಗಾರಿಕೆಯಾಗಿದೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Capital",
+  "kannada_term": "ಬಂಡವಾಳ",
+  "definition": "ವ್ಯವಹಾರ ಪ್ರಾರಂಭಿಸಲು ಹೂಡುವ ಒಟ್ಟು ಹಣ ಅಥವಾ ಸಂಪತ್ತು.",
+  "simple_example": "ಒಬ್ಬ ವ್ಯಕ್ತಿ ಅಂಗಡಿ ತೆರೆಯಲು ಹಾಕುವ ಒಂದು ಲಕ್ಷ ರೂಪಾಯಿ ಅವನ ಬಂಡವಾಳ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Transaction",
+  "kannada_term": "ವಹಿವಾಟು",
+  "definition": "ಇಬ್ಬರ ನಡುವೆ ನಡೆಯುವ ಹಣ ಅಥವಾ ಸರಕುಗಳ ವಿನಿಮಯ.",
+  "simple_example": "ಅಂಗಡಿಯಲ್ಲಿ ಹಣ ನೀಡಿ ಬಿಸ್ಕತ್ತು ಕೊಳ್ಳುವುದು ಒಂದು ವಹಿವಾಟು.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Ledger",
+  "kannada_term": "ಖಾತೆ ಪುಸ್ತಕ",
+  "definition": "ವಿವಿಧ ಖಾತೆಗಳ ದಾಖಲೆಗಳನ್ನು ಹೊಂದಿರುವ ಮುಖ್ಯ ಪುಸ್ತಕ.",
+  "simple_example": "ಪ್ರತಿಯೊಬ್ಬ ಗ್ರಾಹಕನ ಪ್ರತ್ಯೇಕ ವ್ಯವಹಾರವನ್ನು ಲೆಡ್ಜರ್‌ನಲ್ಲಿ ದಾಖಲಿಸಲಾಗುತ್ತದೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Balance Sheet",
+  "kannada_term": "ಆಸ್ತಿ-ಜವಾಬ್ದಾರಿ ಪಟ್ಟಿ",
+  "definition": "ಸಂಸ್ಥೆಯ ಹಣಕಾಸಿನ ಸ್ಥಿತಿಯನ್ನು ತೋರಿಸುವ ಪಟ್ಟಿ.",
+  "simple_example": "ವರ್ಷದ ಕೊನೆಯಲ್ಲಿ ಕಂಪನಿಯ ಆಸ್ತಿ ಮತ್ತು ಸಾಲ ತಿಳಿಯಲು ಇದನ್ನು ನೋಡಬೇಕು.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Revenue",
+  "kannada_term": "ವರಮಾನ",
+  "definition": "ಸರಕು ಅಥವಾ ಸೇವೆಗಳ ಮಾರಾಟದಿಂದ ಬರುವ ಒಟ್ಟು ಮೊತ್ತ.",
+  "simple_example": "ಹೋಟೆಲ್‌ನಲ್ಲಿ ದಿನವಿಡೀ ನಡೆದ ವ್ಯಾಪಾರದ ಒಟ್ಟು ಹಣವೇ ವರಮಾನ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Expense",
+  "kannada_term": "ವೆಚ್ಚ",
+  "definition": "ವ್ಯವಹಾರ ನಡೆಸಲು ಮಾಡುವ ಖರ್ಚುಗಳು.",
+  "simple_example": "ಅಂಗಡಿಯ ಬಾಡಿಗೆ ಮತ್ತು ಕರೆಂಟ್ ಬಿಲ್ ಪಾವತಿಸುವುದು ಒಂದು ವೆಚ್ಚ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Audit",
+  "kannada_term": "ಲೆಕ್ಕಪರಿಶೋಧನೆ",
+  "definition": "ಹಣಕಾಸಿನ ದಾಖಲೆಗಳ ಅಧಿಕೃತ ಮತ್ತು ವ್ಯವಸ್ಥಿತ ಪರಿಶೀಲನೆ.",
+  "simple_example": "ಶಾಲೆಯ ಆದಾಯ ಮತ್ತು ಖರ್ಚಿನ ಲೆಕ್ಕಗಳನ್ನು ಪ್ರತಿವರ್ಷ ಆಡಿಟ್ ಮಾಡಲಾಗುತ್ತದೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Budget",
+  "kannada_term": "ಆಯವ್ಯಯ",
+  "definition": "ಮುಂಬರುವ ಅವಧಿಯ ಆದಾಯ ಮತ್ತು ವೆಚ್ಚದ ಅಂದಾಜು ಯೋಜನೆ.",
+  "simple_example": "ಸರ್ಕಾರವು ಪ್ರತಿ ವರ್ಷ ಶಿಕ್ಷಣ ಮತ್ತು ಆರೋಗ್ಯಕ್ಕಾಗಿ ಬಜೆಟ್ ಮಂಡಿಸುತ್ತದೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Tax",
+  "kannada_term": "ತೆರಿಗೆ",
+  "definition": "ಸಾರ್ವಜನಿಕ ಸೇವೆಗಳಿಗಾಗಿ ಸರ್ಕಾರಕ್ಕೆ ನೀಡುವ ಕಡ್ಡಾಯ ಹಣ.",
+  "simple_example": "ನಾವು ಕೊಳ್ಳುವ ಪ್ರತಿಯೊಂದು ವಸ್ತುವಿನ ಬೆಲೆಯಲ್ಲೂ ಜಿ.ಎಸ್.ಟಿ (GST) ತೆರಿಗೆ ಇರುತ್ತದೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Interest",
+  "kannada_term": "ಬಡ್ಡಿ",
+  "definition": "ಹಣವನ್ನು ಸಾಲವಾಗಿ ಬಳಸಿದ್ದಕ್ಕಾಗಿ ನೀಡುವ ಹೆಚ್ಚುವರಿ ಮೊತ್ತ.",
+  "simple_example": "ಸಾಲ ಪಡೆದಾಗ ನಾವು ಅಸಲಿನ ಜೊತೆಗೆ ಬಡ್ಡಿಯನ್ನು ಸೇರಿಸಿ ಕಟ್ಟಬೇಕು.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Shares",
+  "kannada_term": "ಷೇರುಗಳು",
+  "definition": "ಕಂಪನಿಯ ಮಾಲೀಕತ್ವದ ಒಂದು ಸಣ್ಣ ಭಾಗ.",
+  "simple_example": "ಒಬ್ಬ ವ್ಯಕ್ತಿ ಕಂಪನಿಯ ಷೇರುಗಳನ್ನು ಕೊಂಡರೆ ಅವನು ಆ ಕಂಪನಿಯ ಭಾಗಶಃ ಮಾಲೀಕನಾಗುತ್ತಾನೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Market",
+  "kannada_term": "ಮಾರುಕಟ್ಟೆ",
+  "definition": "ವಸ್ತುಗಳ ಖರೀದಿ ಮತ್ತು ಮಾರಾಟ ನಡೆಯುವ ಸ್ಥಳ.",
+  "simple_example": "ನಾವು ಬಟ್ಟೆಗಳನ್ನು ಕೊಳ್ಳಲು ಬಟ್ಟೆ ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗುತ್ತೇವೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Business",
+  "kannada_term": "ವ್ಯವಹಾರ",
+  "definition": "ಲಾಭ ಗಳಿಸುವ ಉದ್ದೇಶದಿಂದ ಮಾಡುವ ಆರ್ಥಿಕ ಚಟುವಟಿಕೆ.",
+  "simple_example": "ಹಾಲಿನ ಡೈರಿ ನಡೆಸುವುದು ಅಥವಾ ಬಟ್ಟೆ ಅಂಗಡಿ ಇಡುವುದು ಒಂದು ವ್ಯವಹಾರ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Marketing",
+  "kannada_term": "ಮಾರುಕಟ್ಟೆ ಪ್ರಕ್ರಿಯೆ",
+  "definition": "ಉತ್ಪನ್ನಗಳನ್ನು ಗ್ರಾಹಕರಿಗೆ ತಲುಪಿಸಲು ಮಾಡುವ ಚಟುವಟಿಕೆಗಳು.",
+  "simple_example": "ಟಿವಿಯಲ್ಲಿ ಅಥವಾ ಪೇಪರ್‌ನಲ್ಲಿ ಜಾಹೀರಾತು ನೀಡುವುದು ಮಾರ್ಕೆಟಿಂಗ್‌ನ ಒಂದು ಭಾಗ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Income",
+  "kannada_term": "ಆದಾಯ",
+  "definition": "ವ್ಯಕ್ತಿ ಅಥವಾ ಸಂಸ್ಥೆಯು ನಿರ್ದಿಷ್ಟ ಅವಧಿಯಲ್ಲಿ ಗಳಿಸುವ ಹಣ.",
+  "simple_example": "ಉದ್ಯೋಗಿಗೆ ತಿಂಗಳ ಕೊನೆಯಲ್ಲಿ ಬರುವ ಸಂಬಳವೇ ಅವನ ಆದಾಯ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Goods",
+  "kannada_term": "ಸರಕುಗಳು",
+  "definition": "ಮಾರಾಟಕ್ಕಾಗಿ ತಯಾರಿಸಿದ ಭೌತಿಕ ವಸ್ತುಗಳು.",
+  "simple_example": "ಪೆನ್, ಪೆನ್ಸಿಲ್ ಮತ್ತು ನೋಟ್ ಬುಕ್‌ಗಳು ಸ್ಟೇಷನರಿ ಅಂಗಡಿಯ ಸರಕುಗಳು.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Services",
+  "kannada_term": "ಸೇವೆಗಳು",
+  "definition": "ಭೌತಿಕ ವಸ್ತುಗಳ ಬದಲಿಗೆ ಇತರರಿಗಾಗಿ ಮಾಡುವ ಕೆಲಸಗಳು.",
+  "simple_example": "ವಕೀಲರು ಅಥವಾ ಶಿಕ್ಷಕರು ನೀಡುವ ಜ್ಞಾನವು ಒಂದು ಸೇವೆಯಾಗಿದೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Inflation",
+  "kannada_term": "ಹಣದುಬ್ಬರ",
+  "definition": "ವಸ್ತುಗಳ ಬೆಲೆ ಏರಿಕೆ ಮತ್ತು ಹಣದ ಕೊಳ್ಳುವ ಶಕ್ತಿ ಇಳಿಕೆ.",
+  "simple_example": "ಹಣದುಬ್ಬರದಿಂದಾಗಿ ಕಳೆದ ವರ್ಷ ೫೦ ರೂಪಾಯಿ ಇದ್ದ ಎಣ್ಣೆ ಈ ವರ್ಷ ೭೦ ರೂಪಾಯಿ ಆಗಿದೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Investment",
+  "kannada_term": "ಹೂಡಿಕೆ",
+  "definition": "ಭವಿಷ್ಯದಲ್ಲಿ ಲಾಭ ಗಳಿಸುವ ಉದ್ದೇಶದಿಂದ ಹಣವನ್ನು ಬಳಸುವುದು.",
+  "simple_example": "ಬ್ಯಾಂಕ್‌ನಲ್ಲಿ ಎಫ್.ಡಿ (Fixed Deposit) ಮಾಡುವುದು ಅಥವಾ ನಿವೇಶನ ಕೊಳ್ಳುವುದು ಹೂಡಿಕೆಯಾಗಿದೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Consumer",
+  "kannada_term": "ಗ್ರಾಹಕ",
+  "definition": "ವಸ್ತುಗಳನ್ನು ಅಥವಾ ಸೇವೆಗಳನ್ನು ತನ್ನ ಸ್ವಂತ ಬಳಕೆಗೆ ಕೊಳ್ಳುವ ವ್ಯಕ್ತಿ.",
+  "simple_example": "ಸೋಪನ್ನು ಸ್ನಾನಕ್ಕೆಂದು ಅಂಗಡಿಯಿಂದ ಕೊಳ್ಳುವ ವ್ಯಕ್ತಿಯೇ ಗ್ರಾಹಕ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Liquidity",
+  "kannada_term": "ದ್ರವ್ಯತೆ",
+  "definition": "ಆಸ್ತಿಯನ್ನು ಬೇಗನೆ ಹಣವಾಗಿ ಬದಲಾಯಿಸುವ ಸಾಮರ್ಥ್ಯ.",
+  "simple_example": "ಬ್ಯಾಂಕ್‌ನಲ್ಲಿರುವ ಹಣವು ನಿವೇಶನಕ್ಕಿಂತ ಹೆಚ್ಚು ದ್ರವ್ಯತೆ ಹೊಂದಿದೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Fiscal Year",
+  "kannada_term": "ಹಣಕಾಸಿನ ವರ್ಷ",
+  "definition": "ಹಣಕಾಸಿನ ವರದಿಗಾಗಿ ಬಳಸುವ ೧೨ ತಿಂಗಳ ಅವಧಿ.",
+  "simple_example": "ಭಾರತದಲ್ಲಿ ಏಪ್ರಿಲ್ ೧ ರಿಂದ ಮಾರ್ಚ್ ೩೧ ರವರೆಗೆ ಹಣಕಾಸಿನ ವರ್ಷ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Entrepreneur",
+  "kannada_term": "ಉದ್ಯಮಿ",
+  "definition": "ಸ್ವಂತ ವ್ಯವಹಾರ ಆರಂಭಿಸಿ ಲಾಭ-ನಷ್ಟದ ಜವಾಬ್ದಾರಿ ಹೊರುವ ವ್ಯಕ್ತಿ.",
+  "simple_example": "ರತನ್ ಟಾಟಾ ಅಥವಾ ನಾರಾಯಣ ಮೂರ್ತಿ ಅವರು ಪ್ರಸಿದ್ಧ ಉದ್ಯಮಿಗಳು.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Bankruptcy",
+  "kannada_term": "ದಿವಾಳಿತನ",
+  "definition": "ಸಾಲ ತೀರಿಸಲು ಸಾಧ್ಯವಾಗದ ಸ್ಥಿತಿ.",
+  "simple_example": "ಒಬ್ಬ ವ್ಯಕ್ತಿ ತನ್ನ ಆಸ್ತಿಗಿಂತ ಹೆಚ್ಚು ಸಾಲ ಮಾಡಿದಾಗ ದಿವಾಳಿಯಾಗುತ್ತಾನೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "GST",
+  "kannada_term": "ಸರಕು ಮತ್ತು ಸೇವಾ ತೆರಿಗೆ",
+  "definition": "ಸರಕುಗಳ ಮೇಲೆ ವಿಧಿಸುವ ಏಕರೂಪದ ತೆರಿಗೆ.",
+  "simple_example": "ನಾವು ಹೋಟೆಲ್‌ನಲ್ಲಿ ಊಟ ಮಾಡಿದಾಗ ಬಿಲ್ ಮೇಲೆ ಜಿ.ಎಸ್.ಟಿ ತೆರಿಗೆ ಇರುತ್ತದೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Insurance",
+  "kannada_term": "ವಿಮೆ",
+  "definition": "ನಷ್ಟದಿಂದ ರಕ್ಷಣೆ ಪಡೆಯಲು ಮಾಡುವ ಒಪ್ಪಂದ.",
+  "simple_example": "ವಾಹನ ಅಪಘಾತವಾದಾಗ ನಷ್ಟ ತುಂಬಿಕೊಡಲು ವಾಹನ ವಿಮೆ ಮಾಡಿಸಲಾಗುತ್ತದೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Amortization",
+  "kannada_term": "ಕ್ರಮೇಣ ತೀರಿಸುವಿಕೆ",
+  "definition": "ಸಾಲವನ್ನು ನಿಗದಿತ ಅವಧಿಯಲ್ಲಿ ಕಂತುಗಳ ಮೂಲಕ ತೀರಿಸುವುದು.",
+  "simple_example": "ಗೃಹ ಸಾಲವನ್ನು (Home Loan) ಇಎಂಐ ಮೂಲಕ ತೀರಿಸುವುದು ಒಂದು ಅಮೋರ್ಟೈಸೇಶನ್.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Bull Market",
+  "kannada_term": "ಚೇತರಿಸುತ್ತಿರುವ ಮಾರುಕಟ್ಟೆ",
+  "definition": "ಶೇರು ಮಾರುಕಟ್ಟೆಯ ಬೆಲೆಗಳು ಏರುತ್ತಿರುವ ಸ್ಥಿತಿ.",
+  "simple_example": "ಲಾಭದ ನಿರೀಕ್ಷೆಯಲ್ಲಿ ಹೂಡಿಕೆದಾರರು ಹೆಚ್ಚು ಶೇರು ಕೊಳ್ಳುವ ಸಮಯ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Deficit",
+  "kannada_term": "ಕೊರತೆ",
+  "definition": "ಆದಾಯಕ್ಕಿಂತ ಖರ್ಚು ಹೆಚ್ಚಿರುವ ಸ್ಥಿತಿ.",
+  "simple_example": "ಸರ್ಕಾರದ ಬಜೆಟ್‌ನಲ್ಲಿ ಆದಾಯ ೮೦ ರೂಪಾಯಿ ಮತ್ತು ಖರ್ಚು ೧೦೦ ರೂಪಾಯಿ ಇದ್ದರೆ ಅದು ೨೦ ರೂಪಾಯಿ ಕೊರತೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Equilibrium",
+  "kannada_term": "ಸಮತೋಲನ",
+  "definition": "ಪೂರೈಕೆ ಮತ್ತು ಬೇಡಿಕೆ ಸಮವಾಗಿರುವ ಬೆಲೆ.",
+  "simple_example": "ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ವಸ್ತುವಿನ ಬೆಲೆ ಸ್ಥಿರವಾಗಿರುವ ಸ್ಥಿತಿ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Leverage",
+  "kannada_term": "ಹತೋಟಿ (ಲೇವೆರೇಜ್)",
+  "definition": "ಹೆಚ್ಚಿನ ಲಾಭಕ್ಕಾಗಿ ಸಾಲದ ಹಣವನ್ನು ಬಳಸುವುದು.",
+  "simple_example": "ಸ್ವಂತ ಹಣದ ಜೊತೆಗೆ ಬ್ಯಾಂಕ್ ಸಾಲ ಪಡೆದು ದೊಡ್ಡ ಫ್ಯಾಕ್ಟರಿ ಕಟ್ಟುವುದು.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Net Worth",
+  "kannada_term": "ನಿವ್ವಳ ಮೌಲ್ಯ",
+  "definition": "ಒಬ್ಬ ವ್ಯಕ್ತಿಯ ಒಟ್ಟು ಆಸ್ತಿಯಲ್ಲಿ ಸಾಲವನ್ನು ಕಳೆದರೆ ಬರುವ ಮೊತ್ತ.",
+  "simple_example": "ಮನೆ ಮತ್ತು ಬ್ಯಾಂಕ್ ಬ್ಯಾಲೆನ್ಸ್‌ನಿಂದ ಸಾಲವನ್ನು ಕಳೆದರೆ ಬರುವ ಲಾಭ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Portfolio",
+  "kannada_term": "ಪೋರ್ಟ್‌ಫೋಲಿಯೋ",
+  "definition": "ಒಬ್ಬ ಹೂಡಿಕೆದಾರ ಹೊಂದಿರುವ ವಿವಿಧ ಹೂಡಿಕೆಗಳ ಗುಂಪು.",
+  "simple_example": "ಒಬ್ಬ ವ್ಯಕ್ತಿ ಚಿನ್ನ, ಶೇರು ಮತ್ತು ಜಮೀನಿನಲ್ಲಿ ಹೂಡಿಕೆ ಮಾಡಿದ್ದರೆ ಅದು ಅವನ ಪೋರ್ಟ್‌ಫೋಲಿಯೋ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Recession",
+  "kannada_term": "ಆರ್ಥಿಕ ಹಿಂಜರಿತ",
+  "definition": "ದೇಶದ ಆರ್ಥಿಕ ಚಟುವಟಿಕೆಗಳು ಕುಸಿಯುವ ದೀರ್ಘ ಅವಧಿ.",
+  "simple_example": "ಕಂಪನಿಗಳು ನಷ್ಟ ಅನುಭವಿಸಿ ಉದ್ಯೋಗ ಕಡಿತ ಮಾಡುವ ಸಮಯ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Depreciation",
+  "kannada_term": "ಸವಕಳಿ",
+  "definition": "ಬಳಸಿದಂತೆಲ್ಲಾ ಆಸ್ತಿಯ ಮೌಲ್ಯ ಇಳಿಯುವುದು.",
+  "simple_example": "ಹೊಸ ಕಾರು ಕೊಂಡ ಒಂದು ವರ್ಷದ ನಂತರ ಅದರ ಬೆಲೆ ಕಡಿಮೆಯಾಗುವುದು.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Monopoly",
+  "kannada_term": "ಏಕಸ್ವಾಮ್ಯ",
+  "definition": "ಒಬ್ಬನೇ ಮಾರಾಟಗಾರನಿರುವ ಮಾರುಕಟ್ಟೆಯ ಸ್ಥಿತಿ.",
+  "simple_example": "ಒಂದು ಇಡೀ ಊರಿನಲ್ಲಿ ಒಂದೇ ಒಂದು ಬಸ್ ಕಂಪನಿ ಇರುವುದು ಏಕಸ್ವಾಮ್ಯ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ },
+ {
+  "english_term": "Dividend",
+  "kannada_term": "ಲಾಭಾಂಶ",
+  "definition": "ಕಂಪನಿಯ ಲಾಭದ ಒಂದು ಭಾಗವನ್ನು ಶೇರುದಾರರಿಗೆ ಹಂಚುವುದು.",
+  "simple_example": "ಕಂಪನಿಯು ಲಾಭ ಬಂದಾಗ ಶೇರು ಹೊಂದಿರುವ ಜನರಿಗೆ ಹಣ ನೀಡುತ್ತದೆ.",
+  "subject": "Commerce",
+  "is_favorite": "0"
+ }
+ ]
