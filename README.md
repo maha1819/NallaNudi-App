@@ -59,23 +59,23 @@ Bash
 
 Home Interface
 
-![alt text](screenshots/home.png)
+![Home Screen](app/screenshots/home.png)
 
 Real-time search and Subject Filtering
 
-![alt text](screenshots/search.png)
+![Search Results](app/screenshots/search.png)
 
 Flashcard Interaction
 
-![alt text](screenshots/reveal.png)
+![Reveal Logic](app/screenshots/reveal.png)
 
 My List (Favorites)	
 
-![alt text](screenshots/mylist.png)
+![My List](app/screenshots/mylist.png)
 
 Voice Guide
 
-![alt text](screenshots/voice.png)
+![TTS Feature](app/screenshots/voice.png)
 
 📂 Folder Structure
 
