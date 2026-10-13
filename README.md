@@ -45,7 +45,7 @@ Click the Blue Elephant icon (Sync Project with Gradle Files).
 
 🏃 How to Run
 
-Connect your Android device (Samsung Galaxy M53) via USB.
+Connect your Android device via USB.
 Enable USB Debugging in Developer Options.
 Select your device in the top toolbar dropdown.
 Click the Green Triangle (Run) button.
